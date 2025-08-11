@@ -1,5 +1,6 @@
 markdown
 # 👋 Oi, eu sou Emily/tesouroselic!
+<p><em>Commit message: "miorrou o bug"</em> 😹</p>
 
 <div align="center">
   <img src="https://i.redd.it/9q7dz1x.gif" width="400">
