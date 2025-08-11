@@ -1,7 +1,7 @@
 markdown
 # 👋 Oi, eu sou Emily/tesouroselic!
-<p><em>Commit message: "miorrou o bug"</em> 😹</p>
 
+https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWNzOGV6dGd0d2V4b2R5ZzV6eWx4Z3Z2dGd3ZzB6bmZ6eHZxbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JIX9t2j0ZTN9S/giphy.gif
 <div align="center">
   <img src="https://i.redd.it/9q7dz1x.gif" width="400">
   <p><em> </em>  </p>
