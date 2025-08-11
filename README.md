@@ -2,8 +2,8 @@ markdown
 # 👋 Oi, eu sou Emily/tesouroselic!
 
 <div align="center">
-  <img src="https://i.imgur.com/9Q7DZ1x.gif" width="300">
-  <p><em>"Programação é como um gato - às vezes te ignora, às vezes te morde, mas no final sempre te conquista"</em> 😻</p>
+  <img src="https://i.redd.it/9q7dz1x.gif" width="400">
+  <p><em> </em> 😼</p>
 </div>
 
 ### "Tentando domar o JavaScript como quem tenta dar banho em gato" 🐱‍💻
