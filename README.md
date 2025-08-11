@@ -3,7 +3,7 @@ markdown
 
 <div align="center">
   <img src="https://i.redd.it/9q7dz1x.gif" width="400">
-  <p><em> </em> 😼</p>
+  <p><em> </em> 😼 </p>
 </div>
 
 ### "Tentando domar o JavaScript como quem tenta dar banho em gato" 🐱‍💻
