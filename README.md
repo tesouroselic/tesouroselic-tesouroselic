@@ -2,10 +2,11 @@ markdown
 # 👋 Oi, eu sou Emily/tesouroselic!
 
 <div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDk5dWZxM3FqY2VtZ3J6Z2RlY2VhbmR5Z2J6eGZqZzZ1bmN5biZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif" width="200">
+  <img src="https://i.imgur.com/9Q7DZ1x.gif" width="300">
+  <p><em>"Programação é como um gato - às vezes te ignora, às vezes te morde, mas no final sempre te conquista"</em> 😻</p>
 </div>
 
-### "Tentando aprender programação sem chorar (muito) 💻😅"
+### "Tentando domar o JavaScript como quem tenta dar banho em gato" 🐱‍💻
 
 ---
 
